@@ -8,3 +8,5 @@ https://github.com/CBU5201Datasets/Deception
 A CSV file recording the *Language* attribute and *Story Type* of each audio file can be downloaded from:
 
 https://github.com/CBU5201Datasets/Deception/blob/main/CBU0521DD_stories_attributes.csv
+
+-*model we use*:In this study, we aim to develop a CNN deep learning model that combines audio features and language types to accurately distinguish true from false audio content (e.g., identifying deceptive statements).
