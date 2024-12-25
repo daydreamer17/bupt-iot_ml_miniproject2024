@@ -10,3 +10,11 @@ A CSV file recording the *Language* attribute and *Story Type* of each audio fil
 https://github.com/CBU5201Datasets/Deception/blob/main/CBU0521DD_stories_attributes.csv
 
 -*model we use*:In this study, we aim to develop a CNN deep learning model that combines audio features and language types to accurately distinguish true from false audio content (e.g., identifying deceptive statements).
+
+-*dataprocess.py*:we pre-process the dataset we download by this file's code
+
+-*model*:we define a two-dense layers CNN model in this file
+
+-*train.py*:it defines the way we train the code
+
+-*CBU5201_miniproject.ipynb*:for more details of our approach,please see this jupyter file
