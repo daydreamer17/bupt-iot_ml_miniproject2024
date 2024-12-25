@@ -13,7 +13,7 @@ https://github.com/CBU5201Datasets/Deception/blob/main/CBU0521DD_stories_attribu
 
 -*dataprocess.py*:we pre-process the dataset we download by this file's code
 
--*model*:we define a two-layers CNN model in this file
+-*model*:we define a two-dense layers CNN model in this file
 
 -*train.py*:it defines the way we train the code
 
